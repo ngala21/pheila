@@ -1,0 +1,40 @@
+
+.one, .two {
+  margin-top: 50px;
+
+}
+.nav {
+  margin: 0;
+  padding: 10px;
+  background-color: #008B8B;
+  list-style: none;
+  text-align: center;
+  font-size: 16px;
+}
+
+.nav li {
+  display: inline;
+
+}
+
+.nav li a {
+  padding: 16px;
+  text-decoration: none;
+}
+
+button {
+  width: 120px;
+  height: 50px;
+}
+
+button a {
+  text-decoration: none;
+}
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  background-color: #008B8B;
+}
